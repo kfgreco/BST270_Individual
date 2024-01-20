@@ -1,2 +1,6 @@
 # BST270_Individual
-Individual project for BST 270: Reproducible Data Science
+This repository contains all files to reproduce the first 2 figures from FiveThirtyEight's [**How to Spot a Front-Runner on The 'Bachelor' or 'Bachelorette'**](https://fivethirtyeight.com/features/the-bachelorette/). 
+
+`Individual_BST270.Rmd` is the primary analysis file.
+`Individual_BST270.pdf` is the knitted R-markdown.
+`bachelorette.csv` is the source data which should be stored in your working directory.
